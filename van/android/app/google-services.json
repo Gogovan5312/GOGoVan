@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "176335286481",
+    "project_id": "gogovan-d4908",
+    "storage_bucket": "gogovan-d4908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176335286481:android:6314e1de1839e7ecb315f0",
+        "android_client_info": {
+          "package_name": "com.example.gogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUq9rai5d_PdK5kFDS4ds3wm0xX4vknI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176335286481:android:c304759beb1ebdacb315f0",
+        "android_client_info": {
+          "package_name": "com.example.marykristineestano"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUq9rai5d_PdK5kFDS4ds3wm0xX4vknI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176335286481:android:6beaaaa4dcfc5debb315f0",
+        "android_client_info": {
+          "package_name": "com.example.van"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqUq9rai5d_PdK5kFDS4ds3wm0xX4vknI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
